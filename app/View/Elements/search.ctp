@@ -1,6 +1,6 @@
 <div id="search_area" class="col_12 column">
 		<form class="horizontal" method="post" action="#">
-		<input id="keywords" type="text" placeholder="Enter keywords..." />
+		<input name="keywords" id="keywords" type="text" placeholder="Enter keywords..." />
 			<select id="city_select">
 				<option>Select City</option>
 				<option value = "SJ">San Jose, CA</option>
@@ -14,10 +14,13 @@
 				<option value = "PA">Palo Alto, CA</option>
 				<option value = "SB">San Bruno, CA</option>
 			</select>
-			<select id="type_select">
+			<select name="type_select" id="type_select" name="type">
 				<option>Select Property Type</option>
+				<?php foreach($types as $type) : ?>
+					<option value="<?php echo $type['Type']['id']; ?>"><?php echo $type['Type']['name']; ?></option>
+				<?php endforeach; ?>
 			</select>
-			<select id="price_select">
+			<select name="price_select" id="price_select">
 				<option>Select Price Range</option>
 				<option>$0 to $100000</option>
 			</select>
