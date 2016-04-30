@@ -22,11 +22,11 @@
 <div id="container" class="grid">
 	<header>
 		<div id="title" class="col_6 column">
-			<h1><a href="<?php echo $this->webroot; ?>"><strong>Real Estate</strong> Project</a></h1>
+			<h1><a href="<?php echo $this->webroot; ?>"><strong>Real Estate</strong> Database</a></h1>
 		</div>
 		<div class="col_6 column right">
 			<form id="add_property" action="<?php $this->webroot; ?>properties/add">
-				<button class="large green"><i class="icon-plus"></i>Add Property</button>
+				<button class="large green"><i class="fa fa-plus-circle" aria-hidden="true"></i> Add Property</button>
 			</form>
 		
 		
