@@ -24,7 +24,13 @@
 		<div id="title" class="col_6 column">
 			<h1><a href="<?php echo $this->webroot; ?>"><strong>Real Estate</strong> Database</a></h1>
 		</div>
-		<div class="col_6 column right">
+		<div class="col_3 column right welcome">
+			<?php if(AuthComponent::user('id')): ?>
+				<h6>Welcome <strong><?php echo $userData['username']; ?></strong></h6>
+				<a href="<?php echo $this->webroot; ?>users/logout">Logout</a>
+			<?php endif; ?>
+		</div>
+		<div class="col_3 column right">
 			<form id="add_property" action="<?php $this->webroot; ?>properties/add">
 				<button class="large green"><i class="fa fa-plus-circle" aria-hidden="true"></i> Add Property</button>
 			</form>

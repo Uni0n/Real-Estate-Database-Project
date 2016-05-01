@@ -118,7 +118,7 @@ public function add(){
 		$this->Property->create();
 		
 		//Save Logged User ID
-		$this->request->data['Property']['user_id'] = 1;
+		$this->request->data['Property']['user_id'] = $this->Auth->user('id');
 		
 		if($this->Property->save($this->request->data)){
 			$this->Session->setFlash(__('Your property has been listed'));

@@ -1,5 +1,5 @@
 # Real-Estate-Database-Project
-Work-in-progress (Note: this repository is missing app/config/database.php. Have to take that from local CakePHP installation and configure user/pass)
+Work-in-progress
 
 Credit:
 

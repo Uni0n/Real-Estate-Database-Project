@@ -9,8 +9,10 @@
 			
 			<li><strong>Agent Contact Info: </strong> <a href="<?php echo $property['Property']['contact_email']?>"><?php echo $property['Property']['contact_email']?></a></li>
 		</ul>
-<?php echo $this->Html->link('Edit Property', array('action' => 'edit', $property['Property']['id']))?>
-<br />
-<?php echo $this->Form->postLink('Delete Property', array('action' => 'delete', $property['Property']['id']), array('confirm' => 'Are you sure?')); ?>
+		
+<?php if($userData['id'] == $property['Property']['user_id']) : ?>		
+<?php echo $this->Html->link('Edit', array('action' => 'edit', $property['Property']['id']))?> | 
+<?php echo $this->Form->postLink('Delete', array('action' => 'delete', $property['Property']['id']), array('confirm' => 'Are you sure?')); ?>
 <br /><br /><br />
+<?php endif; ?>
 <p><a href="<?php echo $this->webroot;?>">Back to Home</a></p>
