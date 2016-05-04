@@ -22,7 +22,7 @@ class PropertiesController extends AppController{
 			//set Property query options
 		$options = array(
 			'order' => array('Property.created' => 'desc'),
-			'limit' => 8
+			'limit' => 10
 		);
 		
 	
@@ -52,7 +52,7 @@ class PropertiesController extends AppController{
 					'Property.description LIKE' => "%" . $this->request->data('keywords') . "%"
 				));	
 			} 
-			//state filter 
+			//city filter 
 		if(!empty($this->request->data('city_select')) && $this->request->data('city_select') != 'Select City'){
 			//Match State
 			$conditions[] = array(
@@ -71,7 +71,7 @@ class PropertiesController extends AppController{
 		$options = array(
 			'order' => array('Property.created' => 'desc'),
 			'conditions' => $conditions,
-			'limit' => 8
+			'limit' => 10
 		);
 		
 		$properties = $this->Property->find('all', $options);
@@ -119,6 +119,8 @@ public function add(){
 		
 		//Save Logged User ID
 		$this->request->data['Property']['user_id'] = $this->Auth->user('id');
+		//Save 'Property with id:  has been added.' 
+		//$this->request->data['']
 		
 		if($this->Property->save($this->request->data)){
 			$this->Session->setFlash(__('Your property has been listed'));
@@ -170,7 +172,7 @@ public function edit($id){
 		
 	}
 } // end edit function
-	//edit a property
+	//delete a property
 	public function delete($id){
 		if($this->request->is('get')){
 			throw new MethodNotAllowedException();
@@ -184,6 +186,13 @@ public function edit($id){
 			
 		}
 	}
+	
+	//transaction log
+	public function history(){
+		$this->render('history');
+	}
+
+	
 } //end class
 
 

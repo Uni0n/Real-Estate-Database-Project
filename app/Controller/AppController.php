@@ -48,7 +48,7 @@ class AppController extends Controller {
 	
 	public function beforeFilter(){
 		//define public actions
-		$this->Auth->allow('index', 'register');
+		$this->Auth->allow('index', 'register', 'browse');
 	} //end function beforeFilter
 	
 	public function beforeRender(){

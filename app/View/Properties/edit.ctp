@@ -13,6 +13,10 @@ echo $this->Form->create('Property'); ?>
 		));
 		echo $this->Form->input('num_bathrooms');
 		echo $this->Form->input('num_bedrooms');
+		echo $this->Form->input('square_feet');
+		echo $this->Form->input('num_stories');
+		echo $this->Form->input('last_reno_date');
+		echo $this->Form->input('next_open_house_date');
 		echo $this->Form->input('description'); // text field
 		echo $this->Form->input('listing_price');
 		echo $this->Form->input('contact_email'); // text field

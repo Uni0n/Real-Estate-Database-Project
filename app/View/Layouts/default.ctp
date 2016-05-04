@@ -42,9 +42,10 @@
 	<div class="col_12 column">
 	<!-- Menu Horizontal -->
 		<ul class="menu">
-		<li <?php echo ($this->here == '/real_estate' || $this->here == '/real_estate/properties')? 'class="current"' : ''?>><a href="<?php echo $this->webroot; ?>"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+		<li <?php echo ($this->here == '/real_estate/' || $this->here == '/real_estate/properties/browse')? 'class="current"' : ''?>><a href="<?php echo $this->webroot; ?>"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
 		<li <?php echo ($this->here == '/real_estate/users/register')? 'class="current"' : ''?>><a href="<?php echo $this->webroot; ?>users/register"><i class="fa fa-user" aria-hidden="true"></i> Register</a></li>
 		<li <?php echo ($this->here == '/real_estate/users/login')? 'class="current"' : ''?>><a href="<?php echo $this->webroot; ?>users/login"><i class="fa fa-key" aria-hidden="true"></i> Login</a></li>
+		<li <?php echo ($this->here == '/real_estate/properties/history')? 'class="current"' : ''?>><a href="<?php echo $this->webroot; ?>properties/history"><i class="fa fa-bars" aria-hidden="true"></i> Log</a></li>
 		</ul>
 	</div>
 	

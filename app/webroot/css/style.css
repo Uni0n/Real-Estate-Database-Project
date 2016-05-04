@@ -223,7 +223,7 @@ display:block;
 
 #city_select, #state_select{
 	height:40px;
-	width:110px;
+	width:120px;
 	padding:4px;
 	border: 1px solid #ccc;	
 }

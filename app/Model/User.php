@@ -17,7 +17,7 @@ class User extends AppModel{
 		return true;
 	} //end function beforeSave
 	
-	
+	//form validation
 	public $validate = array(
 		'first_name' => array(
 			'alphaNumeric' => array(
