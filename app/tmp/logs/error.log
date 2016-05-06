@@ -9629,3 +9629,465 @@ Request URL: /real_estate/css/css/img/gray_jean.png
 Stack Trace:
 #0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2016-05-06 06:07:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:08:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:08:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:08:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:09:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:14:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:14:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:14:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:16:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:16:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:17:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:17:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:18:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:21:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:22:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:22:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:22:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:22:19 Error: Fatal Error (1): Call to a member function set() on null in [C:\xampp\htdocs\real_estate\app\Controller\PropertiesController.php, line 164]
+2016-05-06 06:22:20 Error: [FatalErrorException] Call to a member function set() on null
+Request URL: /real_estate/properties/edit/29
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#2 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#3 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-06 06:22:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:24:00 Error: Fatal Error (1): Call to a member function read() on null in [C:\xampp\htdocs\real_estate\app\Controller\PropertiesController.php, line 164]
+2016-05-06 06:24:00 Error: [FatalErrorException] Call to a member function read() on null
+Request URL: /real_estate/properties/edit/29
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#2 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#3 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-06 06:24:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:24:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:24:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:24:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:24:13 Error: Fatal Error (1): Call to a member function read() on null in [C:\xampp\htdocs\real_estate\app\Controller\PropertiesController.php, line 164]
+2016-05-06 06:24:13 Error: [FatalErrorException] Call to a member function read() on null
+Request URL: /real_estate/properties/edit/29
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\lib\Cake\Error\ErrorHandler.php(204): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#2 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(929): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 164, Array)
+#3 C:\xampp\htdocs\real_estate\lib\Cake\Core\App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2016-05-06 06:24:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:26:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:27:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:28:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:30:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:30:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:31:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:32:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:33:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-05-06 06:33:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /real_estate/css/css/img/gray_jean.png
+Stack Trace:
+#0 C:\xampp\htdocs\real_estate\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

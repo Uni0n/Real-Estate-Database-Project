@@ -1,5 +1,5 @@
 <h3><?php echo $property['Property']['address_street']; ?> (<?php echo $property['Property']['address_city'];?>, <?php echo $property['Property']['address_state'];?> <?php echo $property['Property']['address_zip']?>)</h3>
-
+		<h6><strong><u>Facts</u></strong></h6>
 		<ul>
 			<li><strong>Property Type: </strong><?php echo $property['Type']['name']?></li>
 			<li><strong>Number of Bedrooms: </strong><?php echo $property['Property']['num_bedrooms'];?></li>
@@ -9,10 +9,12 @@
 			<li><strong>Num. of Stories: </strong><?php echo $property['Property']['num_stories'];?></li>
 			<li><strong>Description: </strong><?php echo $property['Property']['description'];?></li>
 			<li><strong>Listing Price: </strong>$<?php echo $property['Property']['listing_price']?>/month</li>
-			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li><br /><br /><br />
+			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li><br /><br /></ul>
+			<h6><strong><u>Seller Information</u></strong></h6>
+		<ul>
 			<li><strong>Posted by: </strong><?php if($property['User']['username'] == NULL){echo 'ADMIN';}else{echo $property['User']['username'];}?></li>
 			<li><strong>Seller Rating(out of 5): </strong><?php if($property['User']['rating'] == NULL){echo 'N/A';}else{echo $property['User']['rating'];} ?></li>
-			<li><strong>Test Contact E-mail: </strong><?php echo $property['Property']['contact_email'];?></li>
+			<li><strong>Contact E-Mail Address: </strong><?php echo $property['Property']['contact_email'];?></li>
 		</ul>
 		
 <?php if($userData['id'] == $property['Property']['user_id'] || $userData['role'] == 'Agent') : ?>	
