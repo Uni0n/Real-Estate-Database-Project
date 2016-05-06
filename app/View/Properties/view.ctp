@@ -8,13 +8,14 @@
 			<li><strong>Last Renovation Date: </strong><?php echo $property['Property']['last_reno_date'];?></li>
 			<li><strong>Num. of Stories: </strong><?php echo $property['Property']['num_stories'];?></li>
 			<li><strong>Description: </strong><?php echo $property['Property']['description'];?></li>
-			<br />
 			<li><strong>Listing Price: </strong>$<?php echo $property['Property']['listing_price']?>/month</li>
-			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li>
-			<li><strong>Seller Contact Info: </strong> <a href="<?php echo $property['Property']['contact_email']?>"><?php echo $property['Property']['contact_email']?></a></li>
+			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li><br /><br /><br />
+			<li><strong>Posted by: </strong><?php if($property['User']['username'] == NULL){echo 'ADMIN';}else{echo $property['User']['username'];}?></li>
+			<li><strong>Seller Rating(out of 5): </strong><?php if($property['User']['rating'] == NULL){echo 'N/A';}else{echo $property['User']['rating'];} ?></li>
+			<li><strong>Test Contact E-mail: </strong><?php echo $property['Property']['contact_email'];?></li>
 		</ul>
 		
-<?php if($userData['id'] == $property['Property']['user_id'] || $userData['role'] == 'Agent') : ?>		
+<?php if($userData['id'] == $property['Property']['user_id'] || $userData['role'] == 'Agent') : ?>	
 <?php echo $this->Html->link('Edit', array('action' => 'edit', $property['Property']['id']))?> | 
 <?php echo $this->Form->postLink('Delete', array('action' => 'delete', $property['Property']['id']), array('confirm' => 'Are you sure?')); ?>
 <br /><br /><br />

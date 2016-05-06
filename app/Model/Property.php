@@ -1,5 +1,5 @@
 <?php
 class Property extends AppModel{
 	public $name = 'Property';
-	public $belongsTo = array('Type');
+	public $belongsTo = array('Type', 'User');
 }

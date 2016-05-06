@@ -20,13 +20,16 @@
 					<option value="<?php echo $type['Type']['id']; ?>"><?php echo $type['Type']['name']; ?></option>
 				<?php endforeach; ?>
 			</select>
-			<select name="price_select" id="price_select">
+			<button type="submit">Submit</button>
+		</form>
+	</div>
+	
+	<?php /*			<select name="price_select" id="price_select">
 				<option>Select Monthly Price</option>
 				<option value=1000>$0 to $1000</option>
 				<option value=2500>$1001 to $2500</option>
 				<option value=5000>$2501 to $5000</option>
 				<option value=7500>$5001 to $7500</option>
 			</select>
-			<button type="submit">Submit</button>
-		</form>
-	</div>
+			*/
+			?>

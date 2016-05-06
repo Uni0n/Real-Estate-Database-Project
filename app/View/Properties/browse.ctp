@@ -11,7 +11,7 @@
 				<div class="description">
 					<h5><?php echo $property['Property']['address_street']; ?> (<?php echo $property['Property']['address_city'];?>, CA <?php echo $property['Property']['address_zip'];?>)</h5>
 					<span id="list_date">
-						<?php echo $this->Time->format('F jS h:i A', $property['Property']['created']); ?>
+						Listing Price: $<?php echo $property['Property']['listing_price']; ?>/month 
 					</span>
 					<br />
 					<?php echo $this->Text->truncate($property['Property']['description'], 250, array('ellipsis' => '...', 'exact' => false));?>
