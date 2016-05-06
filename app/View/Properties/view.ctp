@@ -12,7 +12,7 @@
 			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li><br /><br /></ul>
 			<h6><strong><u>Seller Information</u></strong></h6>
 		<ul>
-			<li><strong>Posted by: </strong><?php if($property['User']['username'] == NULL){echo 'ADMIN';}else{echo $property['User']['username'];}?></li>
+			<li><strong>Posted by: </strong><?php if($property['User']['username'] == NULL){echo 'ADMIN';}else{echo $property['User']['username'];}?> (<strong>Date Posted: </strong><?php echo $property['Property']['created']?>)</li>
 			<li><strong>Seller Rating(out of 5): </strong><?php if($property['User']['rating'] == NULL){echo 'N/A';}else{echo $property['User']['rating'];} ?></li>
 			<li><strong>Contact E-Mail Address: </strong><?php echo $property['Property']['contact_email'];?></li>
 		</ul>
@@ -22,4 +22,5 @@
 <?php echo $this->Form->postLink('Delete', array('action' => 'delete', $property['Property']['id']), array('confirm' => 'Are you sure?')); ?>
 <br /><br /><br />
 <?php endif; ?>
+<span>Last updated on: </span><?php echo $property['Property']['modified'];?>
 <p><a href="<?php echo $this->webroot;?>">Back to Home</a></p>
