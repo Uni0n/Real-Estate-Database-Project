@@ -8,7 +8,7 @@
 			<li><strong>Last Renovation Date: </strong><?php echo $property['Property']['last_reno_date'];?></li>
 			<li><strong>Num. of Stories: </strong><?php echo $property['Property']['num_stories'];?></li>
 			<li><strong>Description: </strong><?php echo $property['Property']['description'];?></li>
-			<li><strong>Listing Price: </strong>$<?php echo $property['Property']['listing_price']?>/month</li>
+			<li><strong>Listing Price: </strong>$<?php if($property['Type']['name'] == 'House'){echo $property['Property']['listing_price'];}else{echo $property['Property']['listing_price'] . '/month';}?></li>
 			<li><strong>Next Open House Date: </strong><?php echo $property['Property']['next_open_house_date'];?></li><br /><br /></ul>
 			<h6><strong><u>Seller Information</u></strong></h6>
 		<ul>
